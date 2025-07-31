@@ -1,0 +1,14 @@
+[
+    {
+        "modelId":"meta.llama2-70b",
+        "body":"{\"prompt\":\"you are a intelligent bot}",
+        "accept": "application/json",
+        "contentType":"application/json"
+    },
+    {
+        "modelId":"ai21.j2_model-1",
+        "body":"{\"prompt\":\"you are a sociamedia poem generator}",
+        "accept": "application/json",
+        "contentType":"application/json"
+    }
+]
