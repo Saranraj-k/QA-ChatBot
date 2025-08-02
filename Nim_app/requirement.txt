@@ -1,0 +1,4 @@
+openai
+langchain_comunity
+python-dotenv
+Faiss
