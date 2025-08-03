@@ -33,4 +33,7 @@ E:/Python/Gen AI/LangChain/venv/
 .mypy_cache/
 .pytest_cache/
 
-#
+#lock
+chromadb-4022ce7607f99e2546a2517f89d6fcb9.lock
+chromadb-cab67d820fea6bb34b2ddbbbbd236e09.lock
+crewai-rag-tool.lock
